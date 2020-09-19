@@ -1,0 +1,14 @@
+C:\Users\Silas\source\repos\UNITPAC.Aula04\bin\Debug\UNITPAC.Aula04.exe.config
+C:\Users\Silas\source\repos\UNITPAC.Aula04\bin\Debug\UNITPAC.Aula04.exe
+C:\Users\Silas\source\repos\UNITPAC.Aula04\bin\Debug\UNITPAC.Aula04.pdb
+C:\Users\Silas\source\repos\UNITPAC.Aula04\obj\Debug\UNITPAC.Aula04.csprojAssemblyReference.cache
+C:\Users\Silas\source\repos\UNITPAC.Aula04\obj\Debug\UNITPAC.Aula04.FrmPrincipal.resources
+C:\Users\Silas\source\repos\UNITPAC.Aula04\obj\Debug\UNITPAC.Aula04.Properties.Resources.resources
+C:\Users\Silas\source\repos\UNITPAC.Aula04\obj\Debug\UNITPAC.Aula04.csproj.GenerateResource.cache
+C:\Users\Silas\source\repos\UNITPAC.Aula04\obj\Debug\UNITPAC.Aula04.csproj.CoreCompileInputs.cache
+C:\Users\Silas\source\repos\UNITPAC.Aula04\obj\Debug\UNITPAC.Aula04.exe
+C:\Users\Silas\source\repos\UNITPAC.Aula04\obj\Debug\UNITPAC.Aula04.pdb
+C:\Users\Silas\source\repos\UNITPAC.Aula04\obj\Debug\UNITPAC.Aula04.FrmCadastroAluno.resources
+C:\Users\Silas\source\repos\UNITPAC.Aula04\obj\Debug\UNITPAC.Aula04.FrmEditorTexto.resources
+C:\Users\Silas\source\repos\UNITPAC.Aula04\obj\Debug\UNITPAC.Aula04.FrmConsultaAluno.resources
+C:\Users\Silas\source\repos\UNITPAC.Aula04\obj\Debug\UNITPAC.Aula04.FrmConsultaProfessor.resources
